@@ -11,18 +11,16 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado del desarrollo de software y
 ## Mis proyectos destacados
 Aquí tienes algunos de los proyectos en los que he estado trabajando:
 
-- 🚀 [Video Games](): Una breve descripción del proyecto.
-- 🌟 
+- 🚀 [Video Games](https://client-elb79yb58-leonardorodriguez22.vercel.app/home): Una breve descripción del proyecto.
+
 
 ## Contacto
 Puedes encontrarme en las redes sociales:
-- [LinkedIn](enlace-a-tu-linkedin)
-- [Twitter](enlace-a-tu-twitter)
+- [LinkedIn]([enlace-a-tu-linkedin](https://www.linkedin.com/in/leonardo-rodriguez-803560241/))
+
 
 ¡No dudes en contactarme si tienes alguna pregunta o simplemente quieres charlar sobre desarrollo de software!
 
-## Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU-NOMBRE-DE-USUARIO&show_icons=true&theme=dark)
 
 Gracias por visitar mi perfil. ¡Espero que encuentres interesantes mis proyectos!
 
