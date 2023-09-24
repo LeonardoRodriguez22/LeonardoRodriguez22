@@ -21,6 +21,19 @@ Puedes encontrarme en las redes sociales:
 </p>
 
 
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Tecnologias que conozco👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,discord,express,phyton, figma,firebase,github,html,js,nextjs,nodejs,postman,react,redux,tailwind,ts,vscode,prisma,zustand&perline=14" />
+  </a>
+</p>
+
 
 ¡No dudes en contactarme si tienes alguna pregunta o simplemente quieres charlar sobre desarrollo de software!
 
