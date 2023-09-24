@@ -30,7 +30,7 @@ Puedes encontrarme en las redes sociales:
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,express,phyton, figma,firebase,github,html,js,nextjs,nodejs,postman,react,redux,tailwind,ts,vscode,prisma,zustand&perline=14" />
+    <img src="https://skillicons.dev/iconsi=git,css,discord,express,phyton,figma,firebase,github,html,js,nextjs,nodejs,postman,react,redux,tailwind,ts,vscode,prisma,zustand&perline=14" />
   </a>
 </p>
 
