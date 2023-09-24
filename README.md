@@ -5,7 +5,6 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado del desarrollo de software y
 ## Acerca de mí
 - 🌐 Desarrollador web y de aplicaciones.
 - 💼 Actualmente trabajando en proyectos emocionantes.
-- 🎓 Graduado en Ingeniería en Informática.
 - 📚 Siempre aprendiendo y mejorando mis habilidades.
 
 ## Mis proyectos destacados
