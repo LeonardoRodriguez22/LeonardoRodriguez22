@@ -11,7 +11,7 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado del desarrollo de software y
 ## Mis proyectos destacados
 Aquí tienes algunos de los proyectos en los que he estado trabajando:
 <p align="center">
-- 🚀 [Video Games]<a href="https://www.linkedin.com/in/leonardo-rodriguez-803560241/)" target="blank">
+<a href="https://www.linkedin.com/in/leonardo-rodriguez-803560241/)" target="blank">- 🚀 [Video Games]</a>
 </p>
 
 ## Contacto
