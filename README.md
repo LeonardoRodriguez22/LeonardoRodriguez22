@@ -11,7 +11,7 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado del desarrollo de software y
 ## Mis proyectos destacados
 Aquí tienes algunos de los proyectos en los que he estado trabajando:
 
-- 🚀 [Video Games](https://client-elb79yb58-leonardorodriguez22.vercel.app/home): Una breve descripción del proyecto.
+- 🚀 [Video Games]("https://client-elb79yb58-leonardorodriguez22.vercel.app/home"): Una breve descripción del proyecto.
 
 
 ## Contacto
