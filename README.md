@@ -16,7 +16,10 @@ Aquí tienes algunos de los proyectos en los que he estado trabajando:
 
 ## Contacto
 Puedes encontrarme en las redes sociales:
-- [LinkedIn]([enlace-a-tu-linkedin](https://www.linkedin.com/in/leonardo-rodriguez-803560241/))
+<p align="center">
+<a href="https://www.linkedin.com/in/leonardo-rodriguez-803560241/)" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+</p>
+
 
 
 ¡No dudes en contactarme si tienes alguna pregunta o simplemente quieres charlar sobre desarrollo de software!
