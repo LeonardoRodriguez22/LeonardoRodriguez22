@@ -6,6 +6,9 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado del desarrollo de software y
 - 🌐 Desarrollador web y de aplicaciones.
 - 💼 Actualmente trabajando en proyectos emocionantes.
 - 📚 Siempre aprendiendo y mejorando mis habilidades.
+- 📫 No dudes en comunicarte conmigo santiyvalenyleo@gmail.com
+
+
 
 ## Mis proyectos destacados
 Aquí tienes algunos de los proyectos en los que he estado trabajando:
