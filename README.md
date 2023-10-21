@@ -1,4 +1,5 @@
 # ¡Hola, soy Leonardo Rodriguez! 👋
+![image](https://github.com/LeonardoRodriguez22/LeonardoRodriguez22/assets/112113959/06eef956-03c5-45a7-bc92-bc2daa8722c4)
 
 Bienvenido a mi perfil de GitHub. Soy un apasionado del desarrollo de software y estoy emocionado de compartir mi trabajo contigo.
 
