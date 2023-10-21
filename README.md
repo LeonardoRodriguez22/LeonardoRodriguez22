@@ -15,6 +15,9 @@ Aquí tienes algunos de los proyectos en los que he estado trabajando:
 <p align="center">
   <a href="https://client-elb79yb58-leonardorodriguez22.vercel.app">- 🚀 [Video Games]</a>
 </p>
+<p align="center">
+  <a href="https://frontend-ladyfitlovers.vercel.app/">- 🚀 [E-Comerce]</a>
+</p>
 
 ## Contacto
 Puedes encontrarme en las redes sociales:
