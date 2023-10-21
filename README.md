@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hola👋, Soy Walter Horst</h1></summary>
+    <summary><h1 style="display: inline-block">Hola👋, Soy Leonardo Rodriguez</h1></summary>
   </ul>
 </div>
 
