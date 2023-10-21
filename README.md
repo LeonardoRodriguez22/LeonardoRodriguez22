@@ -1,5 +1,20 @@
 # ¡Hola, soy Leonardo Rodriguez! 👋
-![image](https://github.com/LeonardoRodriguez22/LeonardoRodriguez22/assets/112113959/06eef956-03c5-45a7-bc92-bc2daa8722c4)
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hola👋, Soy Walter Horst</h1></summary>
+  </ul>
+</div>
+
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 Bienvenido a mi perfil de GitHub. Soy un apasionado del desarrollo de software y estoy emocionado de compartir mi trabajo contigo.
 
